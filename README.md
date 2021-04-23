@@ -1,4 +1,3 @@
-# viniciusog
-### Teste
+# Hi! I'm Vinícius 👋🏼
 ---
-[] - Criar Backend
+### Brazilian student and backend developer
