@@ -7,7 +7,7 @@
 <details>
 <summary>⚡️ More about coding</summary>
   
-  ![Vinícius's github stats](https://github-readme-stats.vercel.app/api?    username=viniciusog&theme=dark&count_private=true&show_icons=true&title_color=0074B7&icon_color=0074B7&line_height=20)
+  ![Vinícius's github stats](https://github-readme-stats.vercel.app/api?username=viniciusog&theme=dark&count_private=true&show_icons=true&title_color=0074B7&icon_color=0074B7&line_height=20)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusog&theme=dark&layout=compact&show_icons=true&title_color=0074B7&icon_color=0074B7)](https://github.com/viniciusog/github-readme-stats)
   
 </details>
