@@ -1,4 +1,4 @@
-# Hi! I'm Vinícius 👋🏼
+# Hi! 👋🏼
 ---
 🛠 Tech stack
 
