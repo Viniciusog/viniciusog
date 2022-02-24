@@ -1,4 +1,4 @@
-## Hi there! 👋🏼
+## Hi! 👋🏼
 
 🛠 Tech stack
 
