@@ -1,9 +1,3 @@
-<p align="right">
-	<img alt="vinicius's visitors" src="https://komarev.com/ghpvc/?username=Viniciusog&color=1d1f21&style=flat&label=visitors" />
-	<img alt="vinicius's followers" src="https://img.shields.io/github/followers/Viniciusog?color=1d1f21" />
-	<img alt="vinicius's stars" src="https://img.shields.io/github/stars/Viniciusog?color=1d1f21" />
-</p>
-
 ## Hi! 👋🏼
 
 🛠 Tech stack
@@ -17,3 +11,10 @@
 <a href="https://github.com/Viniciusog/Viniciusog">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusog&langs_count=6&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<br>
+<p align="left">
+	<img alt="vinicius's visitors" src="https://komarev.com/ghpvc/?username=Viniciusog&color=1d1f21&style=flat&label=visitors" />
+	<img alt="vinicius's followers" src="https://img.shields.io/github/followers/Viniciusog?color=1d1f21" />
+	<img alt="vinicius's stars" src="https://img.shields.io/github/stars/Viniciusog?color=1d1f21" />
+</p>
