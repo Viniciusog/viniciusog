@@ -1,3 +1,9 @@
+<p align="right">
+	<img alt="vinicius's visitors" src="https://komarev.com/ghpvc/?username=Viniciusog&color=1d1f21&style=flat&label=visitors" />
+	<img alt="vinicius's followers" src="https://img.shields.io/github/followers/Viniciusog?color=1d1f21" />
+	<img alt="vinicius's stars" src="https://img.shields.io/github/stars/Viniciusog?color=1d1f21" />
+</p>
+
 ## Hi! 👋🏼
 
 🛠 Tech stack
