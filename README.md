@@ -1,7 +1,7 @@
 ## Hello, I'm Vinícius! 👋🏼
 
 - 🎓 Computer Science - UFSCar
-- 📌 **Looking for an internship**
+- 🔹 CATIJr - UFSCar
 - 💻 Java | Spring Boot | Python | Web Development | React.js | HTML/CSS/JavaScript | SQL | Machine Learning |
 
 ## Contact me
